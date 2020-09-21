@@ -1,4 +1,8 @@
-実践Rustプログラミング入門5章相当 diesel参考用
+実践Rustプログラミング入門5章相当
+
+別のライブラリでの実装例 diesel参考用
+
+See https://github.com/forcia/rustbook/tree/master/ch05 for the reference of the original book.
 
 
 
